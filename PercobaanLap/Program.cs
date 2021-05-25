@@ -17,6 +17,12 @@ namespace PercobaanLap
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form2());
+
+            // HEYOOOO
+            // HEYOOOO
+            // HEYOOOO
+            // HEYOOOO
+            // HEYOOOO
         }
     }
 }
